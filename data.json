@@ -3,7 +3,7 @@
   "author": "BLACK FOX BD",
   "github": "@INGRANTED",
   "status": 1,
-  "musicListUrl": "https://raw.githubusercontent.com/A2MBD3/Aincrad/main/assets/music.txt",
+  "musicListUrl": "https://raw.githubusercontent.com/INGRANTED/bypass/refs/heads/main/music.txt",
   "fallbackRedirectUrl": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/A2MBD3/Aincrad/main/index.html",
   "timing": {
     "initProgressTime": 10000,
